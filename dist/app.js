@@ -1,0 +1,1 @@
+require('./myPath/myFile.less');
